@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MaxwellRepin
-- 👀 I’m interested in all things data and coding!
-- 🌱 I’m currently learning SQL, Python, Rust and RStudio
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m @MaxwellRepin (He/Him)
+- Welcome to my Data Science portfolio that contains a range of completed University projects in SQL, Python and RStudio.
+- Please feel free to contact me on maxwellrepin@gmail.com for any questions 
 
 
